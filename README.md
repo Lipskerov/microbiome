@@ -1,5 +1,5 @@
-# microbiome
-Microbiome CRC Prediction Model
+# Microbiome CRC Prediction Model
+
 
 This repository contains a machine learning project focused on predicting colorectal cancer (CRC) status using microbiome data. The primary objective is to leverage microbiome abundance data and metadata to classify patients into CRC or Healthy groups, while handling imbalanced datasets using SMOTE and training a highly accurate XGBoost model.
 
